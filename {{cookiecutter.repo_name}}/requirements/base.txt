@@ -1,8 +1,7 @@
-django<1.6
+-e git+https://github.com/django/django.git@1.6b4#egg=django
 
 django-model-utils==1.4.0
 
-psycopg2==2.5
 South==0.7.6
 
 Pillow==2.1.0
